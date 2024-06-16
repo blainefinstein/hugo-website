@@ -99,33 +99,5 @@
       <guid>http://localhost:1313/tags/zoology/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Portugese</title>
-      <link>http://localhost:1313/tags/portugese/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portugese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Celtic Languages</title>
-      <link>http://localhost:1313/tags/celtic-languages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/celtic-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Irish</title>
-      <link>http://localhost:1313/tags/irish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Profanity</title>
-      <link>http://localhost:1313/tags/profanity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/profanity/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
