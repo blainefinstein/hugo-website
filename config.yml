@@ -11,18 +11,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: Projects
+          url: projects/
           weight: 1 
         - name: Papers
           url: papers/
           weight: 2
         - name: Data
           url: data/
-          weight: 4 
+          weight: 3 
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I am a PhD student in political science at UCLA."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -55,34 +55,26 @@ params:
           imageHeight: 160
           imageTitle: Blaine Finstein
           buttons:
+            - name: Projects
+              url: projects/
             - name: Papers
               url: papers/
             - name: Data
               url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
 
     socialIcons:
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:blainefinstein@ucla.edu
         - name: CV
-          url: cv.pdf
+          url: cv blaine finstein.pdf
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: Location
-          url: location/
+          url: https://scholar.google.com/citations?user=W7cHS8EAAAAJ
         - name: Office Hours
           url: officehours/
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/blainefinstein
+        - name: Goodreads
+          url: https://www.goodreads.com/user/show/5475703-blaine
 
     assets:
         disableHLJS: true
@@ -91,7 +83,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Blaine Finstein"
       icon: favicon.ico
       iconHeight: 18
 
