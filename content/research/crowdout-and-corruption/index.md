@@ -6,7 +6,6 @@ tags: ["corruption","machine learnings","development"]
 author: ["Blaine Finstein"]
 summary: "This project explores the effect of non-governmental development programs on state governancein the Philippines." 
 cover:
-    image: "roxas1.jpg"
     alt: "Crowdout and Corruption"
     relative: false
 

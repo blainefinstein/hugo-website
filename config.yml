@@ -14,8 +14,8 @@ menu:
         - name: CV
           url: cv blaine finstein.pdf
           weight: 1
-        - name: Projects
-          url: projects/
+        - name: Research
+          url: research/
           weight: 2 
         - name: Data
           url: data/
