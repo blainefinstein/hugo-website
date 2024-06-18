@@ -11,15 +11,18 @@ taxonomies:
 
 menu:
     main:
+        - name: CV
+          url: cv blaine finstein.pdf
+          weight: 1
         - name: Projects
           url: projects/
-          weight: 1 
+          weight: 2 
         - name: Data
           url: data/
-          weight: 2 
+          weight: 3 
         - name: Photos
           url: photos/
-          weight: 3
+          weight: 4
 
 params:
     description: "I am a PhD student in political science at UCLA."
@@ -37,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["projects","data","photos"]
+    MainSections: ["research","data","photos"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -49,24 +52,26 @@ params:
     profileMode:
           enabled: true
           title: Blaine Finstein
-          subtitle: "Hi! My name is Blaine Finstein and I am a PhD student in political science at UCLA. My work focuses on the political economy of development, NGOs, and the application of computational tools to these topics."
+          subtitle: "Hi! My name is Blaine Finstein and I am a PhD student in political science at UCLA. My work focuses on the political economy of development, NGOs, and applications of computational tools to these topics."
           imageUrl: "headshot copy.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Blaine Finstein
           buttons:
-            - name: Projects
-              url: projects/
+            - name: CV
+              url: cv blaine finstein.pdf
+            - name: Research
+              url: research/
             - name: Data
-              url: data
+              url: data/
             - name: Photos
               url: photos
 
     socialIcons:
         - name: Email
           url: mailto:blainefinstein@ucla.edu
-        - name: CV
-          url: cv blaine finstein.pdf
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/blaine-finstein-b11038160/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=W7cHS8EAAAAJ
         - name: Office Hours

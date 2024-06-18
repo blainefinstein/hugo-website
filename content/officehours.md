@@ -1,26 +1,23 @@
 ---
 title: "Office Hours"
-date: 2024-05-08
+date: 2024-06-18
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Schedule and location for office hours."
 ---
 
 --- 
 #### Schedule
 
-Office hours take place on Wednesday at 10am.
+Meetings can be scheduled [here](https://calendly.com/blainefinstein-g).
 
 ---
 
 #### Location
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+Office hours are via Zoom by default. The meeting link is [here](https://zoom.us/j/7377291328?pwd=SCbRsmTpkWIEKcHQ9jbJTtUDB55mDt.1). I am also available in person with prior notice.
 
 ---
 
 #### Meeting material
 
-+ If we are meeting to discuss research, please send me a written description of the work that you would like to discus. 
-+ Presentation slides or paper draft are perfectly fine. 
-+ If you do not have those, please send a one-page description of the research. 
-+ Please send me the material by 8pm on the evening prior of our meeting.
++ If we are meeting to discuss assignments, please email me any materials that you would like us to review. The more information that I have the better I am able to help!
