@@ -6,8 +6,22 @@
     <description>Recent content on Blaine Finstein</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crowdout and Corruption</title>
+      <link>http://localhost:1313/projects/crowdout-and-corruption/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/crowdout-and-corruption/</guid>
+      <description>This project explores the effect of non-governmental development programs on state governancein the Philippines.</description>
+    </item>
+    <item>
+      <title>Municipal Budget Reports</title>
+      <link>http://localhost:1313/data/budgets/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/budgets/</guid>
+      <description>This dataset contains budget reports from the past 12 years for all municipal and city governments in the Philippines.</description>
+    </item>
     <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
@@ -21,27 +35,6 @@
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
-    </item>
-    <item>
-      <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/data/data1/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data/data1/</guid>
-      <description>This dataset contains all irregular verbs in known Romance languages.</description>
-    </item>
-    <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>http://localhost:1313/papers/paper1/</link>
-      <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001.</description>
-    </item>
-    <item>
-      <title>The Finer Points of Sausage Dogs</title>
-      <link>http://localhost:1313/papers/paper2/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper2/</guid>
-      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 1998.</description>
     </item>
   </channel>
 </rss>

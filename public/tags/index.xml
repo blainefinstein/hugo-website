@@ -6,97 +6,41 @@
     <description>Recent content in Tags on Blaine Finstein</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>French</title>
-      <link>http://localhost:1313/tags/french/</link>
+      <title>Corruption</title>
+      <link>http://localhost:1313/tags/corruption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/french/</guid>
+      <guid>http://localhost:1313/tags/corruption/</guid>
       <description></description>
     </item>
     <item>
-      <title>Irregular Verbs</title>
-      <link>http://localhost:1313/tags/irregular-verbs/</link>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
+      <guid>http://localhost:1313/tags/development/</guid>
       <description></description>
     </item>
     <item>
-      <title>Italian</title>
-      <link>http://localhost:1313/tags/italian/</link>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/italian/</guid>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
-      <title>Philology</title>
-      <link>http://localhost:1313/tags/philology/</link>
+      <title>Machine Learnings</title>
+      <link>http://localhost:1313/tags/machine-learnings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philology/</guid>
+      <guid>http://localhost:1313/tags/machine-learnings/</guid>
       <description></description>
     </item>
     <item>
-      <title>Portuguese</title>
-      <link>http://localhost:1313/tags/portuguese/</link>
+      <title>Philippines</title>
+      <link>http://localhost:1313/tags/philippines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portuguese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Romance Languages</title>
-      <link>http://localhost:1313/tags/romance-languages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/romance-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spanish</title>
-      <link>http://localhost:1313/tags/spanish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spanish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>History of Oil</title>
-      <link>http://localhost:1313/tags/history-of-oil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/history-of-oil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mediterranean World</title>
-      <link>http://localhost:1313/tags/mediterranean-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mediterranean-world/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oleic Science</title>
-      <link>http://localhost:1313/tags/oleic-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oleic-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Canine Pulmonary Efficiency</title>
-      <link>http://localhost:1313/tags/canine-pulmonary-efficiency/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/canine-pulmonary-efficiency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sausage Dogs</title>
-      <link>http://localhost:1313/tags/sausage-dogs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sausage-dogs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zoology</title>
-      <link>http://localhost:1313/tags/zoology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zoology/</guid>
+      <guid>http://localhost:1313/tags/philippines/</guid>
       <description></description>
     </item>
   </channel>

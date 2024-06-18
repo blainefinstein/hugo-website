@@ -14,12 +14,12 @@ menu:
         - name: Projects
           url: projects/
           weight: 1 
-        - name: Papers
-          url: papers/
-          weight: 2
         - name: Data
           url: data/
-          weight: 3 
+          weight: 2 
+        - name: Photos
+          url: photos/
+          weight: 3
 
 params:
     description: "I am a PhD student in political science at UCLA."
@@ -37,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["projects","papers","data"]
+    MainSections: ["projects","data","photos"]
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Blaine Finstein
-          subtitle: "Hi! My name is Blaine Finstein and I am a PhD student in political science at UCLA. My work focuses on the political economy of development, NGOs, and computational methods."
+          subtitle: "Hi! My name is Blaine Finstein and I am a PhD student in political science at UCLA. My work focuses on the political economy of development, NGOs, and the application of computational tools to these topics."
           imageUrl: "headshot copy.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -57,10 +57,10 @@ params:
           buttons:
             - name: Projects
               url: projects/
-            - name: Papers
-              url: papers/
             - name: Data
-              url: data/
+              url: data
+            - name: Photos
+              url: photos
 
     socialIcons:
         - name: Email
